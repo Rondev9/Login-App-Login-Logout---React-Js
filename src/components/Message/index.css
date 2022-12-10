@@ -1,0 +1,10 @@
+.Message {
+  color: #ffffff;
+  font-family: 'Roboto';
+}
+.MessageContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
